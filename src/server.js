@@ -2,3 +2,5 @@
 const app = require("./index");
 //Inicia o servidor na porta 5000, tornando a API acessível em http://localhost:5000
 app.listen(5000);
+
+//   http://localhost:5000/api/v1//organizador
